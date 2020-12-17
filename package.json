@@ -1,0 +1,25 @@
+{
+  "name": "devhoangkien",
+  "version": "1.0.0",
+  "description": "cv devhoangkien",
+  "main": "devhoangkien.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devhoangkien/devhoangkien.github.io.git"
+  },
+  "keywords": [
+    "devhoangkien",
+    "cv",
+    "devhoangkien",
+    "devhoangkien.com"
+  ],
+  "author": "devhoangkien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devhoangkien/devhoangkien.github.io/issues"
+  },
+  "homepage": "https://github.com/devhoangkien/devhoangkien.github.io#readme"
+}
