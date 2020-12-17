@@ -285,10 +285,14 @@ img{
     margin: 25px 7px;
     cursor: pointer;
 }
+.profile .content-profile .title-profile a{
+    color: beige;
+}
 .profile .content-profile .title-profile .icon-profile i:hover{
     color: var(--colorHover);
     transition: .3s ease;
 }
+
 
 .profile .dowload-contact{
     z-index: 3;
